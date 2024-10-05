@@ -13,19 +13,23 @@
 
 - 🎓 **Bachelor of Technology (B.Tech) in Computer Science** from [University Name]
 
-- 👨‍💻 Over **3 years of freelancing** experience, offering end-to-end solutions in **Python**, **Java**, **React.js**, **Node.js**, **Machine Learning**, and **Full-Stack Web Development**
+- 👨‍💻 Over **3 years of freelancing** experience, providing solutions in **Python**, **Java**, **React.js**, **Node.js**, **Machine Learning**, and **Full-Stack Web Development**
 
-- 💡 Specialized in **data-driven applications**, predictive models, and custom machine learning solutions across industries like **e-commerce**, **finance**, and **healthcare**
+- 💡 Expertise in building **data-driven applications**, **predictive models**, and **custom machine learning solutions** for industries like **e-commerce**, **finance**, and **healthcare**
 
-- 🤖 Passionate about applying **AI/ML** to solve real-world problems. Projects include building scalable **Recommendation Systems**, **Sentiment Analysis Tools**, and more
+- 🧠 **Machine Learning Enthusiast**: Experienced in designing and deploying ML algorithms for **Recommendation Systems**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Predictive Analytics**
 
-- 🌱 Currently advancing my knowledge in **Next.js**, **TypeScript**, and **Cloud Computing** (AWS) to enhance web development and deploy cloud-native applications
+- 🚀 Advanced knowledge of **Front-End** and **Back-End** technologies, including **React.js**, **Next.js**, **Node.js**, **Express**, and **Django**
 
-- ⚡ Strong foundation in **Data Analytics** and visualization tools like **Pandas**, **NumPy**, **Matplotlib**, and **Power BI**. Proficient in designing **RESTful APIs**, **microservices**, and **serverless architecture**
+- 🌱 Currently expanding my skills in **TypeScript**, **GraphQL**, **Docker**, **Kubernetes**, and **Serverless Architecture** for modern cloud-native applications
 
-- 📫 Reach me via email: **shreyassrt483@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/shreyas-c-r-777b4229a)**
+- 🌐 **Cloud & DevOps**: Proficient in **AWS** (EC2, S3, Lambda, RDS), **Docker**, **Kubernetes**, **CI/CD pipelines**, and deploying scalable, secure web applications on cloud platforms
 
-- 💼 Actively seeking freelance opportunities and collaborations in **Data Science**, **Machine Learning**, and **Full-Stack Development**. Let's build something amazing together!
+- 📊 **Data Analytics & Visualization**: Expert in **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Power BI**, and **Tableau** for data manipulation and creating insightful visualizations
+
+- 💼 Open to freelance opportunities and collaborations in **Data Science**, **Machine Learning**, and **Full-Stack Development**. Let’s work on exciting projects together!
+
+- 📫 Reach me at **shreyassrt483@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/shreyas-c-r-777b4229a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,9 +76,13 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas-cr&show_icons=true&locale=en&layout=compact" alt="shreyas-cr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas-cr&show_icons=true&locale=en" alt="shreyas-cr" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-cr" alt="shreyas-cr" /></p>
