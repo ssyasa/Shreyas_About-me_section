@@ -1,4 +1,6 @@
-## 🚀 Shreyas C.R — Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer
+---
+
+# 🚀 Shreyas C.R — Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer
 
 📍 **Location:** Bengaluru, India  
 📞 **Phone:** +91 99023 36213  
@@ -9,10 +11,10 @@
 ---
 
 ### 👋 Hi, I'm Shreyas!
-I am a passionate **Computer Science** graduate with a razor-sharp focus on solving real-world problems through **Machine Learning**, **Full-Stack Development**, and **Data Science**. With over **3 years of freelancing** and internship experience, I specialize in delivering **cutting-edge software solutions** that drive business growth, customer engagement, and operational efficiency.
+I am a passionate **Computer Science** graduate specializing in **Machine Learning**, **Full-Stack Development**, and **Data Science**. With over **3 years of freelancing** and internship experience, I excel in delivering **cutting-edge software solutions** that drive business growth, customer engagement, and operational efficiency. 
 
-### 💼 Why Should You Work With Me?
-My experience spans across **Machine Learning models**, **predictive analytics**, and **full-stack web applications**. Whether it's crafting a scalable **web platform**, building an **AI-powered predictive model**, or delivering **actionable insights through data visualizations**, I bring an exceptional combination of **technical expertise**, **business acumen**, and a passion for innovation to every project. Here's a glimpse of what I can offer:
+### 💼 Why Choose Me?
+With expertise in various domains including **Machine Learning models**, **predictive analytics**, and **full-stack web applications**, I can help you turn your vision into reality. I leverage **innovative technologies** to deliver **customized solutions** that not only meet but exceed client expectations. 
 
 ---
 
@@ -22,14 +24,14 @@ My experience spans across **Machine Learning models**, **predictive analytics**
 **Tools:** Power BI, DAX, SQL  
 **Objective:** Streamlining the process of reconciling **Purchase Requests** with invoices to identify discrepancies and reduce approval time.  
 **Key Features:**  
-- Visual comparison of purchase requests vs. invoice data, enabling faster decision-making.
+- Visual comparison of purchase requests vs. invoice data for quicker decision-making.
 - Department-wise filtering for targeted analysis.
 - Summary statistics on approval turnaround, helping managers optimize processes.  
 **Impact:** Saved 15% of operational costs by automating approval processes and improving transparency across departments.  
 
 ### **2. Zomato Restaurant Insights Dashboard**  
 **Tools:** Power BI, Python, DAX  
-**Objective:** Analyzing restaurant data from **Zomato** to uncover insights that benefit food industry stakeholders.  
+**Objective:** Analyzing restaurant data from **Zomato** to uncover insights for food industry stakeholders.  
 **Key Features:**  
 - Geographic heatmaps showing restaurant ratings and customer preferences.
 - Trend analysis for popular cuisines and locations.
@@ -108,14 +110,30 @@ My experience spans across **Machine Learning models**, **predictive analytics**
 - Data-driven recommendations for early intervention.  
 **Impact:** Assisted healthcare providers in improving early diagnosis rates by 22%.
 
-### **11. Full-Stack E-Commerce Platform**  
-**Tools:** React.js, Node.js, Express, MongoDB, AWS S3, Stripe API  
-**Objective:** Develop a complete **e-commerce platform** that supports multiple vendors and seamless payment integration.  
+---
+
+## 💻 Full-Stack Projects
+
+### **11. Chat Application with LLM**  
+**Tools:** React, Node.js, Express, Socket.io, MongoDB, OpenAI API  
+**Objective:** Creating a real-time chat application powered by **Large Language Models** for enhanced user interactions.  
 **Key Features:**  
-- Custom user authentication and vendor management system.
-- Product catalog with real-time stock updates and dynamic pricing.
-- Integrated **Stripe API** for secure payments and order tracking.  
-**Impact:** Enabled client to launch their online store with **30% higher** customer retention due to seamless UX and fast checkout process.
+- **Real-Time Messaging:** Users can send and receive messages instantly.
+- **LLM Integration:** Enhanced responses using OpenAI's GPT for intelligent suggestions and engaging conversations.
+- **User Authentication:** Secure login and user management.
+- **Responsive Design:** Accessible across devices with a user-friendly interface.  
+**Impact:** This application provides an enriched communication platform, enhancing user engagement and satisfaction by providing intelligent responses and seamless interaction. 
+
+### **12. E-Commerce Platform**  
+**Tools:** React, Node.js, Express, MongoDB, Stripe API  
+**Objective:** Developing a full-fledged e-commerce platform to facilitate online shopping.  
+**Key Features:**  
+- **User Accounts:** Secure user authentication with role-based access.
+- **Product Management:** Dynamic product listing and inventory management.
+- **Payment Integration:** Seamless checkout process using Stripe for secure transactions.
+- **Order Tracking:** Real-time order tracking for users.  
+**Impact:** Streamlined the shopping experience, resulting in a 30% increase in sales in the first month post-launch.
+
 ---
 
 ## 💡 Key Technologies & Skills
@@ -124,9 +142,11 @@ My experience spans across **Machine Learning models**, **predictive analytics**
 - **Web Development:** React.js, Node.js, Express, Flask, RESTful APIs, Django  
 - **Front-End Frameworks:** Angular, Vue.js, Tailwind CSS  
 - **Back-End Development:** Django, Spring Boot, ASP.NET, GraphQL  
+- **Database Management:** MongoDB, MySQL, PostgreSQL  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins, Google Cloud  
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLP  
 - **Data Visualization:** Power BI, Matplotlib, Seaborn, Tableau, Excel  
+- **Others:** Socket.io, OpenAI API, Stripe API
 
 ---
 
@@ -153,62 +173,11 @@ I am actively looking for new freelance projects and long-term collaborations in
   <a href="https://www.linkedin.com/in/shreyas-c-r-777b4229a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-cr" height="30" width="40" />
   </a>
-  <a href="https://github.com/ssyasa" target="_blank">
+  <a href="https
+
+://github.com/ssyasa" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ssyasa" height="30" width="40" />
   </a>
 </p>
-
----
-
-### 🔧 Tools & Technologies:
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  
-  </a>
-</p>
-
 
 --- 
