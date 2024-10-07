@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🎓 **Bachelor of Technology (B.Tech) in Computer Science** from [University Name]
+- 🎓 **Bachelor of Technology (B.Tech) in Computer Science** 
 
 - 👨‍💻 Over **3 years of freelancing** experience, providing solutions in **Python**, **Java**, **React.js**, **Node.js**, **Machine Learning**, and **Full-Stack Web Development**
 
