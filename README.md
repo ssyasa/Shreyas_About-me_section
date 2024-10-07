@@ -166,3 +166,4 @@ I am actively looking for new freelance projects and long-term collaborations in
 </p>
 
 --- 
+<p align="left"> <a href="https://www.linkedin.com/in/shreyas-c-r-777b4229a" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-cr" height="30" width="40" /> </a> <a href="https://github.com/ssyasa" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shreyas-cr" height="30" width="40" /> </a> </p>
