@@ -2,12 +2,6 @@
 <h3 align="center">Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer</h3>
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyas-cr" alt="shreyas-cr" />
-  </a> 
-</p>
-
 - 🎓 **Bachelor of Technology (B.Tech) in Computer Science** 
 
 - 👨‍💻 Over **3 years of freelancing** experience, providing solutions in **Python**, **Java**, **React.js**, **Node.js**, **Machine Learning**, and **Full-Stack Web Development**
