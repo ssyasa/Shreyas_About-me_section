@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas C.R</h1>  
 <h3 align="center">Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shreyas-cr&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-cr" /> 
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
