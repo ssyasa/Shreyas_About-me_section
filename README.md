@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **Shreyas C.R** </h1>  
+<h1 align="center">Hi 👋, I'm Shreyas C.R </h1>  
 <h3 align="center">Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer</h3>
 
 
