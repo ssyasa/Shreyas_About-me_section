@@ -1,12 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Shreyas C.R</h1>  
+<h1 align="center">Hi 👋, I'm **Shreyas C.R** </h1>  
 <h3 align="center">Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyas-cr" alt="shreyas-cr" />
-  </a> 
-</p>
 
 ### 📝 **About Me**
 
