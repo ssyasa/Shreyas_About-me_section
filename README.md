@@ -108,6 +108,14 @@ My experience spans across **Machine Learning models**, **predictive analytics**
 - Data-driven recommendations for early intervention.  
 **Impact:** Assisted healthcare providers in improving early diagnosis rates by 22%.
 
+### **11. Full-Stack E-Commerce Platform**  
+**Tools:** React.js, Node.js, Express, MongoDB, AWS S3, Stripe API  
+**Objective:** Develop a complete **e-commerce platform** that supports multiple vendors and seamless payment integration.  
+**Key Features:**  
+- Custom user authentication and vendor management system.
+- Product catalog with real-time stock updates and dynamic pricing.
+- Integrated **Stripe API** for secure payments and order tracking.  
+**Impact:** Enabled client to launch their online store with **30% higher** customer retention due to seamless UX and fast checkout process.
 ---
 
 ## 💡 Key Technologies & Skills
