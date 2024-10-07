@@ -1,100 +1,174 @@
-<h1 align="center">Hi 👋, I'm Shreyas C.R</h1>  
-<h3 align="center">Freelancer | Data Analyst | Machine Learning Enthusiast | Full-Stack Developer</h3>
+# Shreyas C.R – Freelance Data Analyst & Full-Stack Developer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shreyas-cr&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-cr" />
-</p>
-
-- 🎓 **Bachelor of Engineering in Computer Science** — Vijaya Vittala Institute of Technology, Bengaluru (2020-2024)
-
-- 👨‍💻 **3+ years of freelancing experience**, offering expertise in **Python**, **Java**, **React.js**, **Node.js**, **Machine Learning**, and **Full-Stack Web Development**
-
-- 💡 **Expertise in Data-Driven Applications**: Skilled in building **predictive models** and **custom machine learning solutions** for industries such as **e-commerce**, **finance**, and **healthcare**
-
-- 🤖 **Machine Learning Enthusiast**: Proven experience in designing and deploying ML algorithms for **Natural Language Processing (NLP)**, **Computer Vision**, **Recommendation Systems**, and **Predictive Analytics**
-
-- 🚀 **Full-Stack Developer**: Advanced knowledge in **Front-End** and **Back-End** technologies, including **React.js**, **Node.js**, **Next.js**, **Express**, **Django**, and **Flask**
-
-- 🌱 Currently expanding my skills in **TypeScript**, **GraphQL**, **Docker**, **Kubernetes**, and **Cloud Computing** (AWS, GCP) to build scalable cloud-native solutions
-
-- ⚡ **Cloud & DevOps**: Proficient in **AWS** (EC2, S3, Lambda, RDS), **Docker**, **Kubernetes**, **CI/CD pipelines**, and deploying secure, scalable applications in cloud environments
-
-- 📊 **Data Analytics & Visualization**: Proficient in **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Power BI**, and **Tableau** for data manipulation and insightful visualizations
-
-- 💼 Open to freelance projects in **Data Science**, **Machine Learning**, and **Full-Stack Development**. Let’s collaborate and build something impactful together!
-
-- 📫 Feel free to reach out via email at **shreyassrt483@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/shreyas-c-r-777b4229a)**.
+📍 **Bengaluru, India**  
+📧 **shreyassrt483@gmail.com**  
+📱 **+91 99023 36213**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/shreyas-c-r-777b4229a)**  
+💻 **[GitHub](https://github.com/ssyasa)**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreyas-c-r-777b4229a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/ssyasa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+## 🚀 About Me:
+I am **Shreyas C.R**, a passionate **Data Analyst**, **Machine Learning Enthusiast**, and **Full-Stack Developer** with a strong background in **Computer Science Engineering**. Over the past **3+ years**, I have transformed complex datasets into actionable insights, built scalable web applications, and developed machine learning models that solve real-world business problems. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a>
-</p>
+I specialize in **data-driven solutions** and **full-stack development**, with extensive experience working in domains such as **e-commerce**, **finance**, **healthcare**, and **telecom**. My approach combines advanced technical skills with creative problem-solving to deliver solutions that exceed expectations. I am always on the lookout for exciting projects that push the boundaries of innovation.
 
 ---
 
-<h3 align="left">Key Projects:</h3>
-<ul>
-  <li><b>Chat App with LLM</b>: Developed a web application using **LLM technology** with real-time voice communication and **Web Speech API** for voice recognition, improving user engagement.</li>
-  <li><b>Online Payment Fraud Detection</b>: Built a fraud detection system that uses real-time data analysis to predict and prevent fraudulent activities, boosting transaction security.</li>
-  <li><b>House & Car Price Prediction Models</b>: Created machine learning models that predict house and car prices based on **market trends** and **historical data**, offering strategic pricing tools for users.</li>
-  <li><b>Sentiment Analysis on Twitter Data</b>: Implemented sentiment analysis using **NLP techniques** to evaluate public opinion on social media, providing insights for marketing strategies.</li>
-  <li><b>Customer Churn Analysis</b>: Designed a customer churn prediction system for a subscription-based model, identifying factors influencing retention and attrition.</li>
-  <li><b>Kidney Disease Prediction</b>: Developed a predictive model for kidney disease, helping healthcare providers with early intervention and improving patient outcomes.</li>
-</ul>
+## 🎯 Why Hire Me?
+
+- 📊 **Data-Driven Decision Making**: I can help businesses harness the power of data to make smarter decisions, whether it's through **data visualization dashboards**, **predictive analytics**, or **statistical modeling**.
+- 🤖 **Expertise in Machine Learning**: Proficient in creating sophisticated ML models for **fraud detection**, **price prediction**, **sentiment analysis**, and more, I deliver accurate, scalable solutions for businesses across industries.
+- 💻 **Full-Stack Mastery**: From **React** and **Node.js** to **Django** and **Spring Boot**, I bring expertise in both **front-end** and **back-end** technologies to build seamless, user-friendly applications.
+- 🌐 **Cloud & DevOps Ready**: Skilled in deploying applications on **AWS**, **Azure**, and **Google Cloud**, I build secure, scalable, and cloud-native applications with DevOps tools like **Docker** and **Kubernetes**.
+- 🚀 **End-to-End Project Execution**: I handle projects from **ideation to deployment**, ensuring top-quality deliverables with timely updates and client satisfaction.
 
 ---
 
-### Technologies Used in Projects:
-- **Power BI** for interactive dashboards and reports
-- **SQL** for data extraction and manipulation
-- **DAX (Data Analysis Expressions)** for custom calculations in Power BI
-- **Python** and **R** for advanced analytics, including predictive modeling and data transformations
+## 💼 Recent Projects
+
+### 1. **PR Reconciliation Dashboard**
+**Tools**: Power BI, SQL, DAX  
+**Description**: Developed a dynamic dashboard to automate the **reconciliation of Purchase Requests (PR)** with invoices, allowing for quick identification of discrepancies and status updates across departments.
+
+**Key Features**:
+- Visual representation of PRs vs invoices for **real-time tracking**.
+- **Department-wise filtering** for detailed analysis.
+- **Summary statistics** showing PR approval times, highlighting bottlenecks.
+
+**Impact**: Streamlined PR approval workflows for a large organization, reducing manual errors and improving decision-making.
+
+---
+
+### 2. **Zomato Dashboard Analysis**
+**Tools**: Power BI, DAX, Python  
+**Description**: Created an interactive dashboard to analyze restaurant data from Zomato, focusing on customer sentiment, restaurant ratings, and cuisine trends.
+
+**Key Features**:
+- **Geographic heat maps** visualizing top-rated restaurants by region.
+- **Cuisine trend analysis**, identifying most popular and emerging food categories.
+- **Sentiment analysis** based on customer reviews, offering actionable insights for improving services.
+
+**Impact**: Provided data-driven recommendations for restaurant owners to optimize menu offerings and marketing strategies.
+
+---
+
+### 3. **Customer Churn Prediction**
+**Tools**: Python (Scikit-Learn, Pandas, TensorFlow), Power BI  
+**Description**: Built a predictive model to analyze customer churn for a subscription-based service, identifying patterns that lead to churn and retention.
+
+**Key Features**:
+- **Customer segmentation** based on behavior, usage, and subscription tiers.
+- **Predictive modeling** to assess customer churn risk, enabling proactive retention efforts.
+- Visual representations of **churn trends** over time and across regions.
+
+**Impact**: Helped the client reduce churn by 18% through targeted customer retention campaigns, saving significant revenue.
+
+---
+
+### 4. **Telecom Customer Data Analysis**
+**Tools**: Power BI, Python  
+**Description**: Conducted an in-depth analysis of telecom customer usage patterns, demographics, and service satisfaction to provide insights for business optimization.
+
+**Key Features**:
+- **Demographic segmentation** to understand customer behavior based on age, gender, and location.
+- **Usage pattern analysis** to identify peak hours and optimize network resources.
+- **Service satisfaction tracking**, providing insights to enhance customer experiences.
+
+**Impact**: Enabled the telecom provider to enhance service offerings, increase customer satisfaction, and optimize operational efficiency.
+
+---
+
+### 5. **Credit Card Fraud Detection System**
+**Tools**: Python, Scikit-learn, TensorFlow  
+**Description**: Developed a highly accurate **credit card fraud detection system** using machine learning to identify suspicious transactions in real-time.
+
+**Key Features**:
+- **Pattern recognition** to detect anomalies in transaction data.
+- **Real-time monitoring**, ensuring secure transaction processing.
+- **Machine learning algorithms** optimized for accuracy and speed.
+
+**Impact**: Reduced fraud-related financial losses by 22% for a major banking institution, improving customer trust and security.
+
+---
+
+### 6. **Online Payment Fraud Detection**
+**Tools**: Python, TensorFlow, Scikit-learn  
+**Description**: Engineered a robust **fraud detection system** that analyzes transaction patterns in real-time to prevent unauthorized online transactions.
+
+**Key Features**:
+- **Real-time fraud detection** capabilities.
+- Predictive modeling for **early risk identification**.
+- Analyzed vast datasets to find hidden fraud patterns.
+
+**Impact**: Boosted online transaction security by 25% for a leading e-commerce platform.
+
+---
+
+### 7. **Sentiment Analysis on Twitter Data**
+**Tools**: Python, NLP, Pandas  
+**Description**: Implemented a **sentiment analysis model** to classify and understand customer opinions about brands and services on Twitter.
+
+**Key Features**:
+- **Natural Language Processing (NLP)** techniques to analyze tweets and extract sentiments.
+- Generated insights to improve customer engagement and marketing strategies.
+- **Real-time trend analysis** to gauge public opinion.
+
+**Impact**: Helped a retail company refine their marketing strategies by tracking customer sentiment in real time.
+
+---
+
+### 8. **Kidney Disease Prediction System**
+**Tools**: Python, Scikit-learn, Pandas  
+**Description**: Developed a **life-saving predictive model** to assess the risk of kidney disease using patient medical data, aiding in early diagnosis and intervention.
+
+**Key Features**:
+- **Medical data analysis** to predict disease likelihood.
+- **Machine learning algorithms** to assess risk factors.
+- Offered actionable insights for healthcare providers.
+
+**Impact**: Supported early intervention for at-risk patients, potentially improving patient outcomes and lowering healthcare costs.
+
+---
+
+### 9. **House & Car Price Prediction Models**
+**Tools**: Python, Scikit-learn, TensorFlow  
+**Description**: Built predictive models to estimate **real estate** and **automobile prices** based on market trends, location, and asset characteristics.
+
+**Key Features**:
+- Integrated **historical data** and market trends for accurate predictions.
+- Enabled **strategic pricing** for sellers and buyers.
+- Delivered **market forecasting insights** for real estate and automotive dealers.
+
+**Impact**: Increased sales and customer satisfaction by enabling data-driven decision-making in the real estate and automotive sectors.
+
+---
+
+## 💡 Core Technical Skills
+
+- **Programming Languages**: Python, Java, JavaScript, C++, SQL
+- **Front-End Development**: React.js, Angular, Vue.js, HTML, CSS, Tailwind CSS
+- **Back-End Development**: Node.js, Express.js, Django, Spring Boot, Flask
+- **Database Management**: MySQL, PostgreSQL, MongoDB, Firebase
+- **Cloud & DevOps**: AWS (EC2, Lambda, S3), Google Cloud, Azure, Docker, Kubernetes
+- **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, NLP, Matplotlib, Power BI
+- **Version Control & CI/CD**: Git, GitHub, Bitbucket, Jenkins, GitLab
+
+---
+
+## 🎓 Certifications
+
+- **Machine Learning Specialization** – Coursera
+- **Full-Stack Web Development** – freeCodeCamp
+- **Data Science Certification** – DataCamp
+- **AWS Certified Solutions Architect** – Amazon Web Services (AWS)
+
+---
+
+## 📬 Let's Connect & Collaborate!
+If you're looking for an experienced professional who delivers **high-impact data-driven solutions** and **end-to-end web applications**, feel free to reach out. I'm open to **freelance projects** and **collaborations** in **Data Science**, **Machine Learning**, and **Full-Stack Development**.
+
+📧 **Email**: shreyassrt483@gmail.com  
+🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shreyas-c-r-777b4229a)
 
 ---
